@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "DecibelPro",
+      "path": "ios",
+      "framework": "swift"
+    }
+  ]
+}
