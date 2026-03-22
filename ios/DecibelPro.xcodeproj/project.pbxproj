@@ -496,7 +496,7 @@
 				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = "DecibelPro";
+				INFOPLIST_KEY_CFBundleDisplayName = DecibelPro;
 				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
 				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "DecibelPro utilise votre position pour géolocaliser vos mesures sonores (mode Litige).";
 				INFOPLIST_KEY_NSMicrophoneUsageDescription = "DecibelPro utilise votre micro pour mesurer le niveau sonore ambiant.";
@@ -512,7 +512,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0.0;
-				PRODUCT_BUNDLE_IDENTIFIER = app.rork.caj9ckfvqm986l4n74fe5;
+				PRODUCT_BUNDLE_IDENTIFIER = decibel.pro;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -535,7 +535,7 @@
 				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = "DecibelPro";
+				INFOPLIST_KEY_CFBundleDisplayName = DecibelPro;
 				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
 				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "DecibelPro utilise votre position pour géolocaliser vos mesures sonores (mode Litige).";
 				INFOPLIST_KEY_NSMicrophoneUsageDescription = "DecibelPro utilise votre micro pour mesurer le niveau sonore ambiant.";
@@ -551,7 +551,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0.0;
-				PRODUCT_BUNDLE_IDENTIFIER = app.rork.caj9ckfvqm986l4n74fe5;
+				PRODUCT_BUNDLE_IDENTIFIER = decibel.pro;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -573,7 +573,7 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
 				MARKETING_VERSION = 1.0.0;
-				PRODUCT_BUNDLE_IDENTIFIER = app.rork.caj9ckfvqm986l4n74fe5.tests;
+				PRODUCT_BUNDLE_IDENTIFIER = decibel.pro.tests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = NO;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -595,7 +595,7 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
 				MARKETING_VERSION = 1.0.0;
-				PRODUCT_BUNDLE_IDENTIFIER = app.rork.caj9ckfvqm986l4n74fe5.tests;
+				PRODUCT_BUNDLE_IDENTIFIER = decibel.pro.tests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = NO;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -615,7 +615,7 @@
 				DEVELOPMENT_TEAM = "";
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0.0;
-				PRODUCT_BUNDLE_IDENTIFIER = app.rork.caj9ckfvqm986l4n74fe5.uitests;
+				PRODUCT_BUNDLE_IDENTIFIER = decibel.pro.uitests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = NO;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -635,7 +635,7 @@
 				DEVELOPMENT_TEAM = "";
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0.0;
-				PRODUCT_BUNDLE_IDENTIFIER = app.rork.caj9ckfvqm986l4n74fe5.uitests;
+				PRODUCT_BUNDLE_IDENTIFIER = decibel.pro.uitests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = NO;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -660,7 +660,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = app.rork.caj9ckfvqm986l4n74fe5.decibelprowidget;
+				PRODUCT_BUNDLE_IDENTIFIER = decibel.pro.decibelprowidget;
 				PRODUCT_NAME = DecibelProWidget;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -684,7 +684,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = app.rork.caj9ckfvqm986l4n74fe5.decibelprowidget;
+				PRODUCT_BUNDLE_IDENTIFIER = decibel.pro.decibelprowidget;
 				PRODUCT_NAME = DecibelProWidget;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
